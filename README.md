@@ -73,7 +73,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or support, feel free to reach out at [Krishnamis8634@google.com](mailto:your-Krishnamis8634@gmail.com).
+For any inquiries or support, feel free to reach out at [Krishnamis8634@gmail.com](mailto:your-Krishnamis8634@gmail.com).
 
 ---
 
